@@ -1,0 +1,57 @@
+section{
+    border: 2px solid rgb(45, 48, 212);
+    background-color: darkgrey;
+    display: inline-block;
+    width: 60%;
+    height: 40%;
+
+}
+
+header{
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid rgb(158, 34, 34);
+
+  
+}
+
+h1 { float: left;
+    
+    
+
+}
+    
+.firstimage{float: left;
+}
+
+ .firstimage{
+    height: 50%;
+    width: 50%;
+    
+  
+ }
+
+ .secondimage{
+    height: 50%;
+    width: 50%;
+ }
+
+ .thirdimage{
+    height: 50%;
+    width: 50%;
+ }
+
+ .fourthimage{
+    height: 50%;
+    width: 50%;
+ }
+
+ .lowersection {
+    background-color: rgb(226, 67, 67);
+ }
+
+ footer{
+    background-color: blue;
+ }
+
+ 
